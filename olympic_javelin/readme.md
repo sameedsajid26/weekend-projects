@@ -17,6 +17,7 @@ $ pip install opencv-python numpy mediapipe
 ### Usage
 Place your javelin throw video in the same directory as the Python script.
 Run the script:
+
 $ python javelin_analysis.py 
 
 The script will process the video, displaying the analyzed frames with overlaid angles and metrics.
